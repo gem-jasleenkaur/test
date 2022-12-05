@@ -22,7 +22,7 @@
                 "new prop1": "new prop value"
             }
         },
-        "string": "some string"
+        "string": "ABC"
     },
     "Alexander Skarsgard": [
         "Generation Kill",
@@ -32,13 +32,13 @@
         "one": "In Treatment",
         "two": "The Wire"
     },
-    "Annie Fitzgerald": [
+    "Annie": [
         "Big Love",
         "True Blood"
     ],
-    "Anwan Glover": [
+    "Anwan Glover": {
         "Treme",
         "The Wire"
-    ],
+    },
     "Clarke Peters": null
 }
